@@ -1,0 +1,4979 @@
+[
+ {
+  "id": 1,
+  "warao": "Jabata awajituma",
+  "pt": "Alfabeto (warao)",
+  "es": "Alfabeto",
+  "categoria": "Língua e escrita",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "5",
+  "status": "revisar_falante",
+  "nota": "Título acima do alfabeto warao; tradução deduzida pela posição",
+  "variantes": []
+ },
+ {
+  "id": 2,
+  "warao": "Abujene",
+  "pt": "Arara",
+  "es": "Guacamayo",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 3,
+  "warao": "Ajamara",
+  "pt": "Cigarro",
+  "es": "Cigarrillo",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 4,
+  "warao": "Aja",
+  "pt": "Tabaco",
+  "es": "Tabaco",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": "Escrito \"Aja / Yaroto\" na fonte",
+  "variantes": []
+ },
+ {
+  "id": 5,
+  "warao": "Yaroto",
+  "pt": "Tabaco",
+  "es": "Tabaco",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": "Escrito \"Aja / Yaroto\" na fonte",
+  "variantes": []
+ },
+ {
+  "id": 6,
+  "warao": "Anana",
+  "pt": "Lixo",
+  "es": "Basura",
+  "categoria": "Higiene",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": "A cartilha usa outra palavra para lixo: Ajao",
+  "variantes": [
+   {
+    "conceito": "Lixo",
+    "formas": [
+     "Ajao",
+     "Ajab"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "warao": "Aniako",
+  "pt": "Pela manhã",
+  "es": "Por la mañana",
+  "categoria": "Tempo",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 8,
+  "warao": "Anare",
+  "pt": "Palmito",
+  "es": "Palmito",
+  "categoria": "Alimentos",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 9,
+  "warao": "Ama",
+  "pt": "Hoje",
+  "es": "Hoy",
+  "categoria": "Tempo",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 10,
+  "warao": "Asida",
+  "pt": "Mal",
+  "es": "Malo",
+  "categoria": "Qualidades",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 11,
+  "warao": "Aru",
+  "pt": "Tipo de amido proveniente do buritizeiro",
+  "es": "Yuruma",
+  "categoria": "Alimentos",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 12,
+  "warao": "Auka",
+  "pt": "Filho",
+  "es": "Hijo",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 13,
+  "warao": "Baroko",
+  "pt": "Barco grande",
+  "es": "Barco",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 14,
+  "warao": "Bejoro",
+  "pt": "Cachorro",
+  "es": "Perro",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 15,
+  "warao": "Bijibiji",
+  "pt": "Libélula",
+  "es": "Caballito del diablo",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 16,
+  "warao": "Boroma",
+  "pt": "Tigela",
+  "es": "Ponchera",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 17,
+  "warao": "Bosi",
+  "pt": "Ferimento",
+  "es": "Llaga",
+  "categoria": "Sintomas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": "A cartilha usa Kabatanae para corte ou ferida",
+  "variantes": [
+   {
+    "conceito": "Ferida",
+    "formas": [
+     "Kabatanae"
+    ],
+    "comentario": "Bosi traduz \"llaga\"; Kabatanae traduz \"corte o herida\""
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "warao": "Buju",
+  "pt": "Mangue",
+  "es": "Mangle",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 19,
+  "warao": "Burata",
+  "pt": "Dinheiro",
+  "es": "Dinero",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 20,
+  "warao": "Buratana",
+  "pt": "Tipo de banana",
+  "es": "Cambur",
+  "categoria": "Alimentos",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Buratana",
+    "formas": [],
+    "comentario": "Glossário: tipo de banana (cambur); cartilha: banana"
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "warao": "Burebaka",
+  "pt": "Louco",
+  "es": "Loco",
+  "categoria": "Qualidades",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "6",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 22,
+  "warao": "Dabo",
+  "pt": "Faca",
+  "es": "Cuchillo",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 23,
+  "warao": "Daka",
+  "pt": "Irmão pequeno (mais novo)",
+  "es": "Hermano pequeño",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Irmão",
+    "formas": [
+     "Dakobo",
+     "Daje"
+    ],
+    "comentario": "Dakobo = irmão; Daka = irmão pequeno/mais novo; Daje = irmão mais velho"
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "warao": "Daborabaka",
+  "pt": "Lança",
+  "es": "Lanza",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 25,
+  "warao": "Dakobo",
+  "pt": "Irmão",
+  "es": "Hermano",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Irmão",
+    "formas": [
+     "Daka",
+     "Daje"
+    ],
+    "comentario": "Dakobo = irmão; Daka = irmão pequeno/mais novo; Daje = irmão mais velho"
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "warao": "Daku",
+  "pt": "Tio",
+  "es": "Tío",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 27,
+  "warao": "Danikatida",
+  "pt": "Tia",
+  "es": "Tía",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 28,
+  "warao": "Dara",
+  "pt": "Janela",
+  "es": "Ventana",
+  "categoria": "Casa e lugares",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 29,
+  "warao": "Daju",
+  "pt": "Tronco de madeira",
+  "es": "Tronco",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 30,
+  "warao": "Deje",
+  "pt": "Conto",
+  "es": "Cuento",
+  "categoria": "Cultura e espiritualidade",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 31,
+  "warao": "Dima",
+  "pt": "Pai",
+  "es": "Padre",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 32,
+  "warao": "Dojo",
+  "pt": "Ingá",
+  "es": "Guamo",
+  "categoria": "Alimentos",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 33,
+  "warao": "Domu",
+  "pt": "Pássaro",
+  "es": "Pájaro",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 34,
+  "warao": "Domu simu",
+  "pt": "Guará",
+  "es": "Pájaro rojo",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": "Espanhol escrito \"Párajo Rojo\" na fonte",
+  "variantes": []
+ },
+ {
+  "id": 35,
+  "warao": "Dujunoko",
+  "pt": "Cadeira",
+  "es": "Silla",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 36,
+  "warao": "Ebute",
+  "pt": "Boto",
+  "es": "Tonina",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 37,
+  "warao": "Eku",
+  "pt": "Dentro",
+  "es": "Dentro",
+  "categoria": "Palavras gramaticais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 38,
+  "warao": "Ekida",
+  "pt": "Zero/nada",
+  "es": "Cero",
+  "categoria": "Números",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": "Espanhol escrito \"Zero\" na fonte",
+  "variantes": []
+ },
+ {
+  "id": 39,
+  "warao": "Enejeru",
+  "pt": "Boia de buriti",
+  "es": "Boya",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 40,
+  "warao": "Ero",
+  "pt": "Cipó",
+  "es": "Bejuco",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "7",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 41,
+  "warao": "Ibakuaja",
+  "pt": "Graviola",
+  "es": "Guanábana",
+  "categoria": "Alimentos",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 42,
+  "warao": "Ibiji",
+  "pt": "Medicamento",
+  "es": "Medicina",
+  "categoria": "Saúde: atendimento",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": "A cartilha usa Yarokota em frases sobre remédios",
+  "variantes": [
+   {
+    "conceito": "Remédio, medicamento",
+    "formas": [
+     "Yarokota"
+    ],
+    "comentario": "O glossário usa as duas"
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "warao": "Iboma",
+  "pt": "Garota",
+  "es": "Muchacha",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 44,
+  "warao": "Idamo",
+  "pt": "Adulto",
+  "es": "Adulto",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 45,
+  "warao": "Iji",
+  "pt": "Tu, você",
+  "es": "Tú",
+  "categoria": "Palavras gramaticais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "revisar_falante",
+  "nota": "Na cartilha (p. 25) \"Iji nobaraya\" é traduzido como \"Ele está doente\"; conferir se Iji é \"você\" ou \"ele\"",
+  "variantes": [
+   {
+    "conceito": "Tu / ele (Iji)",
+    "formas": [
+     "Iji nobaraya"
+    ],
+    "comentario": "Precisa de confirmação com falante"
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "warao": "Inaminatu",
+  "pt": "Professor",
+  "es": "Maestro",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": "Repete na p. 14",
+  "variantes": []
+ },
+ {
+  "id": 47,
+  "warao": "Ine",
+  "pt": "Eu",
+  "es": "Yo",
+  "categoria": "Palavras gramaticais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 48,
+  "warao": "Imautu",
+  "pt": "Meia-noite",
+  "es": "Media noche",
+  "categoria": "Tempo",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 49,
+  "warao": "Isaka",
+  "pt": "Um",
+  "es": "Uno",
+  "categoria": "Números",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 50,
+  "warao": "Ja",
+  "pt": "Rede de fios ou de fibra",
+  "es": "Chinchorro",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 51,
+  "warao": "Jaba",
+  "pt": "Capivara",
+  "es": "Chigüiri",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 52,
+  "warao": "Jabatakoina",
+  "pt": "Lápis",
+  "es": "Lápiz",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": "Repete na p. 14",
+  "variantes": []
+ },
+ {
+  "id": 53,
+  "warao": "Jaje",
+  "pt": "Remo",
+  "es": "Canalete",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 54,
+  "warao": "Jana",
+  "pt": "Igarapé, riacho",
+  "es": "Caño",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 55,
+  "warao": "Janoko",
+  "pt": "Habitação warao",
+  "es": "Vivienda warao",
+  "categoria": "Casa e lugares",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 56,
+  "warao": "Jari",
+  "pt": "Tucano",
+  "es": "Tucán",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 57,
+  "warao": "Jataburu",
+  "pt": "Arco",
+  "es": "Arco",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 58,
+  "warao": "Je",
+  "pt": "Caranguejo",
+  "es": "Cangrejo",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 59,
+  "warao": "Jeberekoina",
+  "pt": "Borracha",
+  "es": "Borrador",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": "Na p. 14 aparece \"Jabata jeberekitane\"",
+  "variantes": [
+   {
+    "conceito": "Borracha (escolar)",
+    "formas": [
+     "Jabata jeberekitane"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "warao": "Jebu",
+  "pt": "Espírito",
+  "es": "Espíritu",
+  "categoria": "Cultura e espiritualidade",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 61,
+  "warao": "Jejuku",
+  "pt": "Fumaça",
+  "es": "Humo",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 62,
+  "warao": "Jisabanoko",
+  "pt": "Cozinha",
+  "es": "Cocina",
+  "categoria": "Casa e lugares",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 63,
+  "warao": "Jima",
+  "pt": "Machado",
+  "es": "Hacha",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 64,
+  "warao": "Jo",
+  "pt": "Água",
+  "es": "Agua",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 65,
+  "warao": "Joarotu",
+  "pt": "Bruxo bom",
+  "es": "Brujo bueno",
+  "categoria": "Cultura e espiritualidade",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 66,
+  "warao": "Jobaji",
+  "pt": "Terra",
+  "es": "Tierra",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 67,
+  "warao": "Jobi",
+  "pt": "Cachaça",
+  "es": "Aguardiente",
+  "categoria": "Alimentos",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "8",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 68,
+  "warao": "Kabekoa",
+  "pt": "Cinturão",
+  "es": "Cinturón",
+  "categoria": "Roupas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 69,
+  "warao": "Kabesecuju",
+  "pt": "Calça",
+  "es": "Pantalón",
+  "categoria": "Roupas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 70,
+  "warao": "Karata",
+  "pt": "Caderno",
+  "es": "Cuaderno",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": "Repete na p. 14",
+  "variantes": []
+ },
+ {
+  "id": 71,
+  "warao": "Karata waranoko",
+  "pt": "Escola",
+  "es": "Escuela",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 72,
+  "warao": "Keri",
+  "pt": "Bem-te-vi",
+  "es": "Cristo fue",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 73,
+  "warao": "Kokotuka",
+  "pt": "Todos",
+  "es": "Todos",
+  "categoria": "Palavras gramaticais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 74,
+  "warao": "Komu",
+  "pt": "Pé",
+  "es": "Pie",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": "Na p. 13 do mesmo glossário e na cartilha: Omu",
+  "variantes": [
+   {
+    "conceito": "Pé",
+    "formas": [
+     "Omu"
+    ],
+    "comentario": "O próprio glossário traz as duas formas"
+   }
+  ]
+ },
+ {
+  "id": 75,
+  "warao": "Koro",
+  "pt": "Papagaio",
+  "es": "Loro",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 76,
+  "warao": "Kuamara",
+  "pt": "Cutia",
+  "es": "Acure",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 77,
+  "warao": "Kurujubuae",
+  "pt": "Saíram correndo",
+  "es": "Salieron corriendo",
+  "categoria": "Verbos e ações",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 78,
+  "warao": "Manamo",
+  "pt": "Dois",
+  "es": "Dos",
+  "categoria": "Números",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 79,
+  "warao": "Masi",
+  "pt": "Veado",
+  "es": "Venado",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 80,
+  "warao": "Mera",
+  "pt": "Iguana",
+  "es": "Iguana",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 81,
+  "warao": "Moo",
+  "pt": "Larva do tronco do buritizeiro",
+  "es": "Gusano del tronco de moriche",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 82,
+  "warao": "Mojabasi",
+  "pt": "Cinco",
+  "es": "Cinco",
+  "categoria": "Números",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": "A cartilha escreve Muabasi",
+  "variantes": [
+   {
+    "conceito": "Cinco",
+    "formas": [
+     "Muabasi"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 83,
+  "warao": "Monika",
+  "pt": "Parecido",
+  "es": "Semejante",
+  "categoria": "Qualidades",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 84,
+  "warao": "Mojo",
+  "pt": "Mão",
+  "es": "Mano",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 85,
+  "warao": "Mojoreko",
+  "pt": "Dez",
+  "es": "Diez",
+  "categoria": "Números",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 86,
+  "warao": "Misi",
+  "pt": "Gato",
+  "es": "Gato",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 87,
+  "warao": "Musibu",
+  "pt": "Sonho",
+  "es": "Sueño",
+  "categoria": "Verbos e ações",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 88,
+  "warao": "Musikuju",
+  "pt": "Aliança (de casamento)",
+  "es": "Alianza de casamiento",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 89,
+  "warao": "Muju",
+  "pt": "Osso",
+  "es": "Hueso",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "9",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 90,
+  "warao": "Naba",
+  "pt": "Onda pequena",
+  "es": "Ola pequeña",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 91,
+  "warao": "Nabaja",
+  "pt": "Talher (instrumento usado para comer)",
+  "es": "Cubierto",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 92,
+  "warao": "Nabarao",
+  "pt": "Espírito das águas",
+  "es": "Madre de agua",
+  "categoria": "Cultura e espiritualidade",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 93,
+  "warao": "Naku",
+  "pt": "Macaco",
+  "es": "Mono",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 94,
+  "warao": "Najamutu",
+  "pt": "Nuvem",
+  "es": "Nube",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 95,
+  "warao": "Naja baribari",
+  "pt": "Raio",
+  "es": "Rayo",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 96,
+  "warao": "Naja",
+  "pt": "Chuva",
+  "es": "Lluvia",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 97,
+  "warao": "Najoro",
+  "pt": "Comida",
+  "es": "Comida",
+  "categoria": "Alimentos",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 98,
+  "warao": "Najoronoko",
+  "pt": "Restaurante",
+  "es": "Restaurante",
+  "categoria": "Casa e lugares",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": "Na p. 14: refeitório",
+  "variantes": []
+ },
+ {
+  "id": 99,
+  "warao": "Nana",
+  "pt": "Abacaxi",
+  "es": "Piña",
+  "categoria": "Alimentos",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 100,
+  "warao": "Natu",
+  "pt": "Avó",
+  "es": "Abuela",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 101,
+  "warao": "Natoro",
+  "pt": "Neto",
+  "es": "Nieto",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 102,
+  "warao": "Naukamu",
+  "pt": "Milho",
+  "es": "Maíz",
+  "categoria": "Alimentos",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 103,
+  "warao": "Nebu",
+  "pt": "Homem",
+  "es": "Hombre",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 104,
+  "warao": "Nibora",
+  "pt": "Masculino",
+  "es": "Masculino",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": "Na cartilha Anibora = marido",
+  "variantes": []
+ },
+ {
+  "id": 105,
+  "warao": "Nobara",
+  "pt": "Doença",
+  "es": "Enfermedad",
+  "categoria": "Saúde: doenças",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": "Na cartilha: \"nobaraya\" (está doente)",
+  "variantes": []
+ },
+ {
+  "id": 106,
+  "warao": "Noboto",
+  "pt": "Criança pequena",
+  "es": "Niño o niña pequeña",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": "Na cartilha: bebê",
+  "variantes": [
+   {
+    "conceito": "Noboto",
+    "formas": [],
+    "comentario": "Glossário: criança pequena; cartilha: bebê"
+   }
+  ]
+ },
+ {
+  "id": 107,
+  "warao": "Nojeira",
+  "pt": "Fome",
+  "es": "Hambre",
+  "categoria": "Sintomas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": "A cartilha escreve Nojera",
+  "variantes": [
+   {
+    "conceito": "Fome",
+    "formas": [
+     "Nojera"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 108,
+  "warao": "Oji",
+  "pt": "Buriti",
+  "es": "Moriche",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 109,
+  "warao": "Ojidu",
+  "pt": "Árvores de buriti (buritizal)",
+  "es": "Mata de moriche",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 110,
+  "warao": "Oka",
+  "pt": "Tatu",
+  "es": "Cachicamo",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 111,
+  "warao": "Oko",
+  "pt": "Nós",
+  "es": "Nosotros",
+  "categoria": "Palavras gramaticais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 112,
+  "warao": "Omunamu",
+  "pt": "Sapato",
+  "es": "Zapato",
+  "categoria": "Roupas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 113,
+  "warao": "Osibu",
+  "pt": "Espécie de peixe semelhante ao tambaqui",
+  "es": "Morocoto",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "10",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 114,
+  "warao": "Sabasa",
+  "pt": "Alergia",
+  "es": "Alérgico",
+  "categoria": "Saúde: doenças",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 115,
+  "warao": "Saja",
+  "pt": "Morcego",
+  "es": "Murciélago",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 116,
+  "warao": "Sakaro",
+  "pt": "Caranguejo pequeno",
+  "es": "Cangrejo pequeño",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": "Acentos de \"pequeño/pequeno\" trocados entre as línguas na fonte",
+  "variantes": []
+ },
+ {
+  "id": 117,
+  "warao": "Sejoro",
+  "pt": "Material para fazer aturá (cesto de coletar frutos)",
+  "es": "Material para hacer mapire",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 118,
+  "warao": "Sinakabaka",
+  "pt": "Louco",
+  "es": "Loco",
+  "categoria": "Qualidades",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 119,
+  "warao": "Sikaro",
+  "pt": "Cana-de-açúcar",
+  "es": "Caña de azúcar",
+  "categoria": "Alimentos",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": "Espanhol escrito \"açucar\" na fonte",
+  "variantes": []
+ },
+ {
+  "id": 120,
+  "warao": "Tatuma",
+  "pt": "Eles",
+  "es": "Ellos",
+  "categoria": "Palavras gramaticais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 121,
+  "warao": "Tejere",
+  "pt": "Pião feito com caroço de buriti",
+  "es": "Trompo",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 122,
+  "warao": "Tejo",
+  "pt": "Corpo",
+  "es": "Cuerpo",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 123,
+  "warao": "Teko",
+  "pt": "Pavão",
+  "es": "Pavo real",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": "Espanhol escrito \"Pabo real\" na fonte",
+  "variantes": []
+ },
+ {
+  "id": 124,
+  "warao": "Tida",
+  "pt": "Mulher",
+  "es": "Mujer",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 125,
+  "warao": "Tobe",
+  "pt": "Tigre",
+  "es": "Tigre",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 126,
+  "warao": "Toromu",
+  "pt": "Papagaio pequeno",
+  "es": "Loro",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 127,
+  "warao": "Ubaya",
+  "pt": "Dormindo",
+  "es": "Durmiendo",
+  "categoria": "Verbos e ações",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 128,
+  "warao": "Uju",
+  "pt": "Cesto em forma de bolsa para carregar alimentos",
+  "es": "Mapire",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 129,
+  "warao": "Ume",
+  "pt": "Pato",
+  "es": "Pato",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 130,
+  "warao": "Unida",
+  "pt": "Fundo",
+  "es": "Hondo",
+  "categoria": "Qualidades",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 131,
+  "warao": "Ure",
+  "pt": "Cará",
+  "es": "Ocumo chino",
+  "categoria": "Alimentos",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 132,
+  "warao": "Usi",
+  "pt": "Ciriguela",
+  "es": "Jobo",
+  "categoria": "Alimentos",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "11",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 133,
+  "warao": "Wajibaka",
+  "pt": "Canoa",
+  "es": "Curiara",
+  "categoria": "Objetos e utensílios",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 134,
+  "warao": "Waniko",
+  "pt": "Lua",
+  "es": "Luna",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 135,
+  "warao": "Warao",
+  "pt": "Pessoa warao",
+  "es": "Persona warao",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 136,
+  "warao": "Warowaro",
+  "pt": "Borboleta",
+  "es": "Mariposa",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 137,
+  "warao": "Wiji",
+  "pt": "Pomba",
+  "es": "Paloma",
+  "categoria": "Animais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 138,
+  "warao": "Wisiratu",
+  "pt": "Feiticeiro",
+  "es": "Brujo, tipo de espiritista",
+  "categoria": "Cultura e espiritualidade",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 139,
+  "warao": "Yabamo",
+  "pt": "Pescadores",
+  "es": "Pescadores",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 140,
+  "warao": "Yabatu",
+  "pt": "Pescador",
+  "es": "Pescador",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 141,
+  "warao": "Yaja",
+  "pt": "Dia",
+  "es": "Día",
+  "categoria": "Tempo",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 142,
+  "warao": "Yakera",
+  "pt": "Bom",
+  "es": "Bueno",
+  "categoria": "Qualidades",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 143,
+  "warao": "Yaota",
+  "pt": "Trabalho",
+  "es": "Trabajo",
+  "categoria": "Verbos e ações",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 144,
+  "warao": "Yaotaquitane",
+  "pt": "Trabalhador",
+  "es": "Trabajador",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 145,
+  "warao": "Yawiji",
+  "pt": "Palmeira de coco pequeno",
+  "es": "Temiche",
+  "categoria": "Plantas e natureza",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 146,
+  "warao": "Yatu",
+  "pt": "Eles",
+  "es": "Ellos",
+  "categoria": "Palavras gramaticais",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "12",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 147,
+  "warao": "Tejo awaji tuma",
+  "pt": "Partes do corpo",
+  "es": "Partes del cuerpo",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "13",
+  "status": "provisoria",
+  "nota": "Título de seção",
+  "variantes": []
+ },
+ {
+  "id": 148,
+  "warao": "Kua",
+  "pt": "Cabeça",
+  "es": "Cabeza",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "13",
+  "status": "provisoria",
+  "nota": "A cartilha escreve Kuá",
+  "variantes": [
+   {
+    "conceito": "Cabeça",
+    "formas": [],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 149,
+  "warao": "Mu",
+  "pt": "Olho",
+  "es": "Ojo",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "13",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 150,
+  "warao": "Jikari",
+  "pt": "Nariz",
+  "es": "Nariz",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "13",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 151,
+  "warao": "Kojoko",
+  "pt": "Orelha",
+  "es": "Oreja",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "13",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 152,
+  "warao": "Jara",
+  "pt": "Braço",
+  "es": "Brazo",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "13",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 153,
+  "warao": "Moji",
+  "pt": "Perna",
+  "es": "Pierna",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "13",
+  "status": "provisoria",
+  "nota": "A cartilha usa Kaja para perna",
+  "variantes": [
+   {
+    "conceito": "Perna",
+    "formas": [
+     "Kaja"
+    ],
+    "comentario": "Pode ser diferença de região ou de parte da perna"
+   }
+  ]
+ },
+ {
+  "id": 154,
+  "warao": "Omu",
+  "pt": "Pé",
+  "es": "Pie",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "13",
+  "status": "provisoria",
+  "nota": "Na p. 9 do mesmo glossário: Komu",
+  "variantes": [
+   {
+    "conceito": "Pé",
+    "formas": [
+     "Komu"
+    ],
+    "comentario": "O próprio glossário traz as duas formas"
+   }
+  ]
+ },
+ {
+  "id": 155,
+  "warao": "Komukuru",
+  "pt": "Joelho",
+  "es": "Rodilla",
+  "categoria": "Corpo humano",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "13",
+  "status": "provisoria",
+  "nota": "A cartilha escreve Kamukuru",
+  "variantes": [
+   {
+    "conceito": "Joelho",
+    "formas": [
+     "Kamukuru"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 156,
+  "warao": "Karata waranoko",
+  "pt": "Escola",
+  "es": "Escuela",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "revisar_falante",
+  "nota": "Na fonte está \"Karata - Waranoko - Escuela\" (hífen extra e sem português); lido como na p. 9",
+  "variantes": []
+ },
+ {
+  "id": 157,
+  "warao": "Karata",
+  "pt": "Caderno",
+  "es": "Cuaderno",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 158,
+  "warao": "Jabatakoina",
+  "pt": "Lápis",
+  "es": "Lápiz",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 159,
+  "warao": "Jabata jeberekitane",
+  "pt": "Borracha",
+  "es": "Borrador",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "revisar_falante",
+  "nota": "Na fonte: \"Jabata - Jeberekitane - borrador - borracha\" (4 partes); na p. 8: Jeberekoina",
+  "variantes": [
+   {
+    "conceito": "Borracha (escolar)",
+    "formas": [
+     "Jeberekoina"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 160,
+  "warao": "Jabatakoina ai nisakoina",
+  "pt": "Apontador",
+  "es": "Saca punta",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 161,
+  "warao": "Karata ajoro joko",
+  "pt": "Folha de papel A4",
+  "es": "Hoja de papel A4",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 162,
+  "warao": "Asinaria nisakoina",
+  "pt": "Régua",
+  "es": "Regla",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": "Espanhol \"Reglas\" na fonte",
+  "variantes": []
+ },
+ {
+  "id": 163,
+  "warao": "Jabatakoina ajaba isiko",
+  "pt": "Lápis de cor",
+  "es": "Lápiz de colores",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 164,
+  "warao": "Karata deje awarakoina",
+  "pt": "Livro de leitura",
+  "es": "Libro de lectura",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 165,
+  "warao": "Dujunoko",
+  "pt": "Cadeira",
+  "es": "Silla",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 166,
+  "warao": "Daju basa",
+  "pt": "Mesa",
+  "es": "Mesa",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 167,
+  "warao": "Inaminatu",
+  "pt": "Professor",
+  "es": "Profesor o maestro",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 168,
+  "warao": "Karata awaramo",
+  "pt": "Estudantes",
+  "es": "Estudiantes",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 169,
+  "warao": "Karata deje awarakoina abanoko",
+  "pt": "Biblioteca",
+  "es": "Biblioteca",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 170,
+  "warao": "Najoronoko",
+  "pt": "Refeitório",
+  "es": "Comedor",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 171,
+  "warao": "Inaminamo aidamo",
+  "pt": "Coordenador(a)",
+  "es": "Coordinador(a)",
+  "categoria": "Escola",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "14",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 172,
+  "warao": "Yakera yokonae",
+  "pt": "Bom dia",
+  "es": "Buenos días",
+  "categoria": "Saudações",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "15",
+  "status": "provisoria",
+  "nota": "A cartilha escreve \"Yakera jokonera\"",
+  "variantes": [
+   {
+    "conceito": "Bom dia",
+    "formas": [
+     "Yakera jokonera"
+    ],
+    "comentario": "Grafia ou variante dialetal"
+   }
+  ]
+ },
+ {
+  "id": 173,
+  "warao": "Yakera anakuarika",
+  "pt": "Boa tarde",
+  "es": "Buenas tardes",
+  "categoria": "Saudações",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "15",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 174,
+  "warao": "Yakera imaya",
+  "pt": "Boa noite",
+  "es": "Buenas noches",
+  "categoria": "Saudações",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "15",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 175,
+  "warao": "Katukete",
+  "pt": "Como estás?",
+  "es": "¿Qué tal?",
+  "categoria": "Saudações",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "15",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 176,
+  "warao": "Bajukaya",
+  "pt": "Tenho saúde, estou bem",
+  "es": "Tengo salud",
+  "categoria": "Saudações",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "15",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 177,
+  "warao": "Diana oko naruya",
+  "pt": "Nós não vamos",
+  "es": "Nosotros ya no vamos",
+  "categoria": "Saudações",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "15",
+  "status": "revisar_falante",
+  "nota": "Transcrito como está. Por estar entre as saudações, talvez queira dizer \"já vamos (embora)\" (ya nos vamos); confirmar o sentido",
+  "variantes": []
+ },
+ {
+  "id": 178,
+  "warao": "Diana omi nariya",
+  "pt": "Adeus",
+  "es": "Adiós",
+  "categoria": "Saudações",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "15",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 179,
+  "warao": "Dibukitane ja narukitane takore",
+  "pt": "Frases para usar em emergências durante viagens",
+  "es": "Frases para utilizar en emergencias durante viajes",
+  "categoria": "Frases de viagem e emergência",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "16",
+  "status": "provisoria",
+  "nota": "Título de seção",
+  "variantes": []
+ },
+ {
+  "id": 180,
+  "warao": "Kassaba aidamo tuma ajaanako bajia?",
+  "pt": "Onde posso encontrar a polícia?",
+  "es": "¿Adónde puedo encontrar la policía?",
+  "categoria": "Frases de viagem e emergência",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "16",
+  "status": "provisoria",
+  "nota": "Grafia \"Kassaba\" (com ss) na fonte; nas demais frases \"Kasaba\"",
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 181,
+  "warao": "Kasaba akosa abanoko bajia?",
+  "pt": "Onde posso encontrar um hospital?",
+  "es": "¿Adónde puedo encontrar un hospital?",
+  "categoria": "Frases de viagem e emergência",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "16",
+  "status": "provisoria",
+  "nota": "Espanhol \"encontra um\" na fonte",
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 182,
+  "warao": "Kassaba ibiji arotu ajanoko?",
+  "pt": "Onde posso encontrar uma farmácia?",
+  "es": "¿Adónde puedo encontrar una farmacia?",
+  "categoria": "Frases de viagem e emergência",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "16",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 183,
+  "warao": "Kasaba seke najoro nisaturo?",
+  "pt": "Onde posso comprar comida?",
+  "es": "¿Adónde puedo comprar comida?",
+  "categoria": "Frases de viagem e emergência",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "16",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 184,
+  "warao": "Ka saba ine mikuna kiminoko isaka?",
+  "pt": "Onde posso encontrar um banheiro?",
+  "es": "¿Adónde puedo encontrar una sala de baño?",
+  "categoria": "Frases de viagem e emergência",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "17",
+  "status": "provisoria",
+  "nota": "\"Ka saba\" separado na fonte. A cartilha tem outra frase: \"Kasaba bajiya jibonoko?\"",
+  "variantes": [
+   {
+    "conceito": "Onde fica o banheiro?",
+    "formas": [
+     "Kasaba bajiya jibonoko?"
+    ],
+    "comentario": null
+   },
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 185,
+  "warao": "Kasaba seke obaturo?",
+  "pt": "Onde posso dormir?",
+  "es": "¿Adónde puedo dormir?",
+  "categoria": "Frases de viagem e emergência",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "17",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 186,
+  "warao": "Kasaba seke yarokota nisaturo?",
+  "pt": "Onde posso comprar medicamentos?",
+  "es": "¿Adónde puedo comprar medicinas?",
+  "categoria": "Frases de viagem e emergência",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "17",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 187,
+  "warao": "Kasaba seke mituro dioso ajanoko isaka?",
+  "pt": "Onde posso encontrar uma igreja?",
+  "es": "¿Adónde puedo encontrar una iglesia?",
+  "categoria": "Frases de viagem e emergência",
+  "fonte": "Glossário Warao (UNICEF/Aldeias Infantis SOS, 2022)",
+  "pagina": "17",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 188,
+  "warao": "Karata tamaja sanetakitane dibu",
+  "pt": "Cartilha de apoio linguístico para interações em saúde",
+  "es": "Cartilla de apoyo lingüístico para interacciones en salud",
+  "categoria": "Língua e escrita",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "1",
+  "status": "provisoria",
+  "nota": "Título da cartilha",
+  "variantes": []
+ },
+ {
+  "id": 189,
+  "warao": "Aaro",
+  "pt": "Pescoço",
+  "es": "Cuello",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "16",
+  "status": "provisoria",
+  "nota": "Exemplo da nota fonética; no quadro do corpo (p. 28) está \"Aro\"",
+  "variantes": [
+   {
+    "conceito": "Pescoço",
+    "formas": [
+     "Aro"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 190,
+  "warao": "Barayatu",
+  "pt": "Cunhado",
+  "es": "Cuñado",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "16",
+  "status": "revisar_falante",
+  "nota": "Exemplo da nota fonética; no quadro de parentesco (p. 37) está \"Bayaratu\". Uma das duas grafias deve ser erro de digitação",
+  "variantes": [
+   {
+    "conceito": "Cunhado",
+    "formas": [
+     "Bayaratu"
+    ],
+    "comentario": "Uma das duas é provavelmente erro de digitação"
+   }
+  ]
+ },
+ {
+  "id": 191,
+  "warao": "Yakera imaya",
+  "pt": "Boa noite",
+  "es": "Buenas noches",
+  "categoria": "Saudações",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "23",
+  "status": "provisoria",
+  "nota": "Exemplo da nota fonética",
+  "variantes": []
+ },
+ {
+  "id": 192,
+  "warao": "Warao",
+  "pt": "Povo dos rios (o povo warao)",
+  "es": "Pueblo de los ríos",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "23",
+  "status": "provisoria",
+  "nota": "Exemplo da nota fonética; espanhol não aparece na fonte, foi preenchido",
+  "variantes": []
+ },
+ {
+  "id": 193,
+  "warao": "Yakera jokonera",
+  "pt": "Bom dia",
+  "es": "¡Buenos días!",
+  "categoria": "Saudações",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "24",
+  "status": "provisoria",
+  "nota": "O glossário escreve \"Yakera yokonae\"",
+  "variantes": [
+   {
+    "conceito": "Bom dia",
+    "formas": [
+     "Yakera yokonae"
+    ],
+    "comentario": "Grafia ou variante dialetal"
+   }
+  ]
+ },
+ {
+  "id": 194,
+  "warao": "Yakera anakuarika",
+  "pt": "Boa tarde",
+  "es": "¡Buenas tardes!",
+  "categoria": "Saudações",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "24",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 195,
+  "warao": "Ine warao",
+  "pt": "Sou indígena Warao",
+  "es": "Soy indígena warao",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "24",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 196,
+  "warao": "Ine jobai daisayatamo",
+  "pt": "Sou migrante",
+  "es": "Soy migrante",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "24",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 197,
+  "warao": "Ine jobai daisaeku ubanoko",
+  "pt": "Sou refugiado",
+  "es": "Soy refugiado",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "24",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 198,
+  "warao": "Kasaba warakitane",
+  "pt": "Preciso ser atendido",
+  "es": "Necesito que me atiendan",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "24",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 199,
+  "warao": "Masanetakitane",
+  "pt": "Preciso de ajuda",
+  "es": "Necesito ayuda",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "25",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 200,
+  "warao": "Ine nobaraya",
+  "pt": "Estou doente",
+  "es": "Estoy enfermo",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "25",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 201,
+  "warao": "Iji nobaraya",
+  "pt": "Ele está doente",
+  "es": "Él está enfermo",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "25",
+  "status": "revisar_falante",
+  "nota": "No glossário (p. 8) Iji = \"tu/você\"; conferir se aqui é \"ele\"",
+  "variantes": [
+   {
+    "conceito": "Tu / ele (Iji)",
+    "formas": [
+     "Iji"
+    ],
+    "comentario": "Precisa de confirmação com falante"
+   }
+  ]
+ },
+ {
+  "id": 202,
+  "warao": "Tai nobaraya",
+  "pt": "Ela está doente",
+  "es": "Ella está enferma",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "25",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 203,
+  "warao": "Ji wai sina?",
+  "pt": "Como você se chama?",
+  "es": "¿Cómo te llamas?",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "25",
+  "status": "provisoria",
+  "nota": "Alternativa na mesma fonte: \"Ji wai katukane?\"",
+  "variantes": []
+ },
+ {
+  "id": 204,
+  "warao": "Ji wai katukane?",
+  "pt": "Como você se chama?",
+  "es": "¿Cómo te llamas?",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "25",
+  "status": "provisoria",
+  "nota": "Alternativa na mesma fonte: \"Ji wai sina?\"",
+  "variantes": []
+ },
+ {
+  "id": 205,
+  "warao": "Mate ine wakaya masaba warakitane",
+  "pt": "Estou aguardando para ser atendido",
+  "es": "Estoy esperando que me atiendan",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "25",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 206,
+  "warao": "Tamaja tai makarata",
+  "pt": "Este é o meu documento",
+  "es": "Este es mi documento",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "25",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 207,
+  "warao": "Majanoko a wai…",
+  "pt": "Meu endereço é…",
+  "es": "Mi dirección es…",
+  "categoria": "Frases de interação",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "25",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 208,
+  "warao": "Kasaba bajiya yarokotanoko?",
+  "pt": "Onde fica a sala?",
+  "es": "¿En dónde queda el consultorio?",
+  "categoria": "Frases de localização",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "26",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 209,
+  "warao": "Kasaba ja yarokotatu?",
+  "pt": "Onde está a enfermeira?",
+  "es": "¿En dónde está la enfermera?",
+  "categoria": "Frases de localização",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "26",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 210,
+  "warao": "Kasaba ja ibajukatu",
+  "pt": "Onde está o médico?",
+  "es": "¿En dónde está el médico?",
+  "categoria": "Frases de localização",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "26",
+  "status": "provisoria",
+  "nota": "Uma de duas formas dadas na fonte",
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 211,
+  "warao": "Kasaba ja yarokotatu aidamo",
+  "pt": "Onde está o médico?",
+  "es": "¿En dónde está el médico?",
+  "categoria": "Frases de localização",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "26",
+  "status": "provisoria",
+  "nota": "Uma de duas formas dadas na fonte",
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 212,
+  "warao": "Jotu misanoko kasaba bajiya?",
+  "pt": "Onde é a sala de exames?",
+  "es": "¿En dónde queda la sala de exámenes?",
+  "categoria": "Frases de localização",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "26",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 213,
+  "warao": "Kasaba bajiya yarokota nowanoko?",
+  "pt": "Onde é a sala de medicamentos?",
+  "es": "¿En dónde queda la entrega de medicamentos?",
+  "categoria": "Frases de localização",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "27",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 214,
+  "warao": "Kasaba bajiya jibonoko?",
+  "pt": "Onde fica o banheiro?",
+  "es": "¿En dónde queda el baño?",
+  "categoria": "Frases de localização",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "27",
+  "status": "provisoria",
+  "nota": "O glossário tem outra frase: \"Ka saba ine mikuna kiminoko isaka?\"",
+  "variantes": [
+   {
+    "conceito": "Onde fica o banheiro?",
+    "formas": [
+     "Ka saba ine mikuna kiminoko isaka?"
+    ],
+    "comentario": null
+   },
+   {
+    "conceito": "Onde (Kasaba)",
+    "formas": [
+     "Kasaba",
+     "Kassaba",
+     "Ka saba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 215,
+  "warao": "Ine yarokota tai isia tijitijida",
+  "pt": "Tenho alergia a essa medicação",
+  "es": "Soy alérgico a ese medicamento",
+  "categoria": "Frases informativas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "27",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 216,
+  "warao": "Ine ja warao ayarokota isia",
+  "pt": "Estou fazendo tratamento warao",
+  "es": "Estoy en tratamiento warao",
+  "categoria": "Frases informativas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "27",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 217,
+  "warao": "Yarokota sina mamowate?",
+  "pt": "Qual medicamento vou tomar?",
+  "es": "¿Qué medicamento me van a dar?",
+  "categoria": "Frases informativas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "27",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 218,
+  "warao": "Kojoko",
+  "pt": "Orelha",
+  "es": "Oreja",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 219,
+  "warao": "Mu",
+  "pt": "Olho",
+  "es": "Ojo",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 220,
+  "warao": "Tukaba",
+  "pt": "Testa",
+  "es": "Frente",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 221,
+  "warao": "Jikari",
+  "pt": "Nariz",
+  "es": "Nariz",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 222,
+  "warao": "Doko",
+  "pt": "Boca",
+  "es": "Boca",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 223,
+  "warao": "Jono",
+  "pt": "Língua",
+  "es": "Lengua",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 224,
+  "warao": "Jio",
+  "pt": "Cabelo",
+  "es": "Cabello",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 225,
+  "warao": "Aro",
+  "pt": "Pescoço",
+  "es": "Cuello",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": "Na nota fonética (p. 16): \"Aaro\"",
+  "variantes": [
+   {
+    "conceito": "Pescoço",
+    "formas": [
+     "Aaro"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 226,
+  "warao": "Kami",
+  "pt": "Seio",
+  "es": "Seno",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 227,
+  "warao": "Jara",
+  "pt": "Braço",
+  "es": "Brazo",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 228,
+  "warao": "Bojoka",
+  "pt": "Cotovelo",
+  "es": "Codo",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 229,
+  "warao": "Mojo",
+  "pt": "Mão",
+  "es": "Mano",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 230,
+  "warao": "Mojosanuka",
+  "pt": "Mindinho",
+  "es": "Meñique",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 231,
+  "warao": "Mojosí",
+  "pt": "Unha",
+  "es": "Uña",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 232,
+  "warao": "Jokai",
+  "pt": "Vagina",
+  "es": "Vagina",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 233,
+  "warao": "Wata",
+  "pt": "Pênis",
+  "es": "Pene",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "28",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 234,
+  "warao": "Kuabo",
+  "pt": "Cérebro",
+  "es": "Cerebro",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 235,
+  "warao": "Kuá",
+  "pt": "Cabeça",
+  "es": "Cabeza",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": "O glossário escreve Kua (sem acento)",
+  "variantes": [
+   {
+    "conceito": "Cabeça",
+    "formas": [],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 236,
+  "warao": "Dikaba",
+  "pt": "Costas",
+  "es": "Espalda",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 237,
+  "warao": "Mejo",
+  "pt": "Peito",
+  "es": "Pecho",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 238,
+  "warao": "Jomuju",
+  "pt": "Bunda",
+  "es": "Trasero",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 239,
+  "warao": "Bono",
+  "pt": "Barriga",
+  "es": "Barriga",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 240,
+  "warao": "Abate",
+  "pt": "Nádegas",
+  "es": "Nalgas",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 241,
+  "warao": "Kaja",
+  "pt": "Perna",
+  "es": "Pierna",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": "O glossário usa Moji para perna",
+  "variantes": [
+   {
+    "conceito": "Perna",
+    "formas": [
+     "Moji"
+    ],
+    "comentario": "Pode ser diferença de região ou de parte da perna"
+   }
+  ]
+ },
+ {
+  "id": 242,
+  "warao": "Kamukuru",
+  "pt": "Joelho",
+  "es": "Rodilla",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": "O glossário escreve Komukuru",
+  "variantes": [
+   {
+    "conceito": "Joelho",
+    "formas": [
+     "Komukuru"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 243,
+  "warao": "Noi",
+  "pt": "Panturrilha (batata da perna)",
+  "es": "Pantorrilla",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": "Português na fonte: \"Anteperna\"",
+  "variantes": []
+ },
+ {
+  "id": 244,
+  "warao": "Baji",
+  "pt": "Canela",
+  "es": "Canilla",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 245,
+  "warao": "Omu",
+  "pt": "Pé",
+  "es": "Pie",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": "O glossário tem Omu (p. 13) e Komu (p. 9)",
+  "variantes": [
+   {
+    "conceito": "Pé",
+    "formas": [
+     "Komu"
+    ],
+    "comentario": "O próprio glossário traz as duas formas"
+   }
+  ]
+ },
+ {
+  "id": 246,
+  "warao": "Waroba",
+  "pt": "Garganta",
+  "es": "Garganta",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 247,
+  "warao": "Jokaro",
+  "pt": "Coração",
+  "es": "Corazón",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 248,
+  "warao": "Bamuju",
+  "pt": "Costela",
+  "es": "Costilla",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 249,
+  "warao": "Obono najoro ajanoko",
+  "pt": "Estômago",
+  "es": "Estómago",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 250,
+  "warao": "Kamai",
+  "pt": "Rins",
+  "es": "Riñones",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 251,
+  "warao": "Bokabe",
+  "pt": "Vesícula",
+  "es": "Vesícula",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 252,
+  "warao": "Kaya",
+  "pt": "Fígado",
+  "es": "Hígado",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 253,
+  "warao": "Asomosomoko",
+  "pt": "Intestino",
+  "es": "Intestino",
+  "categoria": "Corpo humano",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "29",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 254,
+  "warao": "Obo",
+  "pt": "Gripe",
+  "es": "Gripa",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "30",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 255,
+  "warao": "Obo ainabara",
+  "pt": "Coriza",
+  "es": "Flujo nasal",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "30",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 256,
+  "warao": "Obo aikari mokoronae",
+  "pt": "Nariz entupido",
+  "es": "Nariz tapada",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "30",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 257,
+  "warao": "Waroba tiji tiji",
+  "pt": "Tosse",
+  "es": "Tos",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "30",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 258,
+  "warao": "Jajina yakera nabuaranaja",
+  "pt": "Falta de ar",
+  "es": "Falta de aire",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "30",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 259,
+  "warao": "Makobe ajera",
+  "pt": "Dor de barriga / dor de estômago",
+  "es": "Dolor de barriga / dolor de estómago",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "30",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 260,
+  "warao": "Sojo jowito kimiya",
+  "pt": "Diarreia",
+  "es": "Diarrea",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "30",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 261,
+  "warao": "Dokojiya",
+  "pt": "Vômito",
+  "es": "Vómito",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "31",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 262,
+  "warao": "Joto tai",
+  "pt": "Constipação (prisão de ventre)",
+  "es": "Estreñimiento",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "31",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 263,
+  "warao": "Masia ajera",
+  "pt": "Estou sentindo dor",
+  "es": "Siento dolor",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "31",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 264,
+  "warao": "Kobejuba",
+  "pt": "Vermes",
+  "es": "Parásitos",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "31",
+  "status": "provisoria",
+  "nota": "Na p. 35 \"verme\" aparece como \"Joba ji ajuba\"",
+  "variantes": [
+   {
+    "conceito": "Vermes",
+    "formas": [
+     "Joba ji ajuba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 265,
+  "warao": "Tiji tiji",
+  "pt": "Coceira",
+  "es": "Rasquiña",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "31",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 266,
+  "warao": "Kabatanae",
+  "pt": "Corte ou ferida",
+  "es": "Corte o herida",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "31",
+  "status": "provisoria",
+  "nota": "O glossário tem Bosi para ferimento",
+  "variantes": [
+   {
+    "conceito": "Ferida",
+    "formas": [
+     "Bosi"
+    ],
+    "comentario": "Bosi traduz \"llaga\"; Kabatanae traduz \"corte o herida\""
+   }
+  ]
+ },
+ {
+  "id": 267,
+  "warao": "Jokojoko",
+  "pt": "Inflamação",
+  "es": "Inflamación",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "31",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 268,
+  "warao": "Jobiajera",
+  "pt": "Sede",
+  "es": "Sed",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "31",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 269,
+  "warao": "Nojo ekida",
+  "pt": "Não consigo comer",
+  "es": "No puedo comer",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "32",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 270,
+  "warao": "Nojera",
+  "pt": "Fome",
+  "es": "Hambre",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "32",
+  "status": "provisoria",
+  "nota": "O glossário escreve Nojeira",
+  "variantes": [
+   {
+    "conceito": "Fome",
+    "formas": [
+     "Nojeira"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 271,
+  "warao": "Ine obakumoni",
+  "pt": "Não consigo dormir",
+  "es": "No puedo dormir",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "32",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 272,
+  "warao": "Daisama majaya",
+  "pt": "Infecção",
+  "es": "Infección",
+  "categoria": "Sintomas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "32",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 273,
+  "warao": "Ine mimai",
+  "pt": "Estou menstruando",
+  "es": "Estoy menstruando",
+  "categoria": "Saúde ginecológica",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "32",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 274,
+  "warao": "Ine mimaia",
+  "pt": "Já menstruei",
+  "es": "Ya menstrué",
+  "categoria": "Saúde ginecológica",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "32",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 275,
+  "warao": "Joto anamo",
+  "pt": "Absorventes",
+  "es": "Toallas higiénicas",
+  "categoria": "Saúde ginecológica",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "32",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 276,
+  "warao": "Ine nemanaja ine nejomanaja",
+  "pt": "Não está chegando a menstruação",
+  "es": "No me llega la menstruación",
+  "categoria": "Saúde ginecológica",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "32",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 277,
+  "warao": "Mobokabe ajera",
+  "pt": "Tenho cólica",
+  "es": "Tengo un cólico / dolor",
+  "categoria": "Saúde ginecológica",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "32",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 278,
+  "warao": "Ine kuaboyatai iana",
+  "pt": "Suspeito que estou grávida",
+  "es": "Creo que estoy embarazada",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": "A fonte dá duas formas: esta e \"Ine kuabuyatai diana\"",
+  "variantes": []
+ },
+ {
+  "id": 279,
+  "warao": "Ine kuabuyatai diana",
+  "pt": "Suspeito que estou grávida",
+  "es": "Creo que estoy embarazada",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": "A fonte dá duas formas: esta e \"Ine kuaboyatai iana\"",
+  "variantes": []
+ },
+ {
+  "id": 280,
+  "warao": "Ine kuabu",
+  "pt": "Estou grávida",
+  "es": "Estoy embarazada",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 281,
+  "warao": "Serenae",
+  "pt": "Cesárea",
+  "es": "Cesárea",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 282,
+  "warao": "Yakera diawarae",
+  "pt": "Parto",
+  "es": "Parto",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 283,
+  "warao": "Ori ni sanai",
+  "pt": "Sou casada",
+  "es": "Estoy casada",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 284,
+  "warao": "Ine sare",
+  "pt": "Sou solteira",
+  "es": "Estoy soltera",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 285,
+  "warao": "Manoboto ja",
+  "pt": "Tenho filhos",
+  "es": "Tengo hijos",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 286,
+  "warao": "Manoboto ekida",
+  "pt": "Não tenho filhos",
+  "es": "No tengo hijos",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 287,
+  "warao": "Yarokota kuruya kuabunaka takitane",
+  "pt": "Você faz alguma coisa para não engravidar?",
+  "es": "¿Haces algo para no quedar embarazada?",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 288,
+  "warao": "Nibora daisama isiko ori monikatai",
+  "pt": "Tive vários parceiros sexuais",
+  "es": "He tenido relaciones sexuales con varias personas",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 289,
+  "warao": "Nibo eraja aisiko ori monikatai",
+  "pt": "Tive apenas um parceiro sexual",
+  "es": "He tenido relaciones sexuales con una sola persona",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 290,
+  "warao": "Totoana",
+  "pt": "Não tive relações sexuais",
+  "es": "Nunca tuve relaciones sexuales",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 291,
+  "warao": "Mate nibora mainaja",
+  "pt": "Não tenho relações sexuais (dito por mulher)",
+  "es": "No tengo relaciones sexuales",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": "Forma usada quando quem fala é mulher",
+  "variantes": []
+ },
+ {
+  "id": 292,
+  "warao": "Mate tida ainaja",
+  "pt": "Não tenho relações sexuais (dito por homem)",
+  "es": "No tengo relaciones sexuales",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": "Forma usada quando quem fala é homem",
+  "variantes": []
+ },
+ {
+  "id": 293,
+  "warao": "Anoko guatanamo",
+  "pt": "Preservativo",
+  "es": "Condón",
+  "categoria": "Saúde reprodutiva",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 294,
+  "warao": "Akosa abakitane",
+  "pt": "Vacinas",
+  "es": "Vacunas",
+  "categoria": "Saúde infantil",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 295,
+  "warao": "Ami orokitane",
+  "pt": "Aleitar (amamentar)",
+  "es": "Amamantar",
+  "categoria": "Saúde infantil",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "33",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 296,
+  "warao": "Covid",
+  "pt": "Covid",
+  "es": "Covid",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 297,
+  "warao": "Botobotera",
+  "pt": "Hipertensão",
+  "es": "Presión alta",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 298,
+  "warao": "Kabukari nabutonai",
+  "pt": "Hérnia",
+  "es": "Hernia",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 299,
+  "warao": "Kunaje",
+  "pt": "Pus",
+  "es": "Pus",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": "A fonte dá duas formas: \"Kunaje / Onobo\"",
+  "variantes": []
+ },
+ {
+  "id": 300,
+  "warao": "Onobo",
+  "pt": "Pus",
+  "es": "Pus",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": "A fonte dá duas formas: \"Kunaje / Onobo\"",
+  "variantes": []
+ },
+ {
+  "id": 301,
+  "warao": "Obosabana",
+  "pt": "Tuberculose",
+  "es": "Tuberculosis",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 302,
+  "warao": "Kawajera abane akuajera",
+  "pt": "Enxaqueca",
+  "es": "Jaqueca",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 303,
+  "warao": "Samorona",
+  "pt": "Doença sexualmente transmissível",
+  "es": "Enfermedad sexualmente transmisible",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 304,
+  "warao": "Jokarosinaka",
+  "pt": "Infarto",
+  "es": "Infarto",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 305,
+  "warao": "Joto",
+  "pt": "Sangue",
+  "es": "Sangre",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 306,
+  "warao": "Jene",
+  "pt": "Anemia",
+  "es": "Anemia",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 307,
+  "warao": "Wabasabana",
+  "pt": "HIV/aids",
+  "es": "VIH/sida",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 308,
+  "warao": "Jotu diabera",
+  "pt": "Diabetes",
+  "es": "Diabetes",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 309,
+  "warao": "Ekusabana",
+  "pt": "Câncer",
+  "es": "Cáncer",
+  "categoria": "Saúde: doenças",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "34",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 310,
+  "warao": "Najoro jaraia",
+  "pt": "Lavar os alimentos",
+  "es": "Lavar los alimentos",
+  "categoria": "Higiene",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "provisoria",
+  "nota": "A fonte dá duas formas: esta e \"Najoro joaraia\"",
+  "variantes": []
+ },
+ {
+  "id": 311,
+  "warao": "Najoro joaraia",
+  "pt": "Lavar os alimentos",
+  "es": "Lavar los alimentos",
+  "categoria": "Higiene",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "provisoria",
+  "nota": "A fonte dá duas formas: esta e \"Najoro jaraia\"",
+  "variantes": []
+ },
+ {
+  "id": 312,
+  "warao": "Nakokitane",
+  "pt": "Tomar banho",
+  "es": "Bañarse",
+  "categoria": "Higiene",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 313,
+  "warao": "Ami",
+  "pt": "Piolho",
+  "es": "Piojo",
+  "categoria": "Higiene",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 314,
+  "warao": "Ajao",
+  "pt": "Lixo",
+  "es": "Basura",
+  "categoria": "Higiene",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "revisar_falante",
+  "nota": "Na fonte: \"Ajao - Ajab\". \"Ajab\" pode ser variante ou erro de digitação. O glossário usa Anana para lixo",
+  "variantes": [
+   {
+    "conceito": "Lixo",
+    "formas": [
+     "Anana",
+     "Ajab"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 315,
+  "warao": "Ajab",
+  "pt": "Lixo",
+  "es": "Basura",
+  "categoria": "Higiene",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "revisar_falante",
+  "nota": "Na fonte: \"Ajao - Ajab\". Possível erro de digitação de \"Ajao\"",
+  "variantes": [
+   {
+    "conceito": "Lixo",
+    "formas": [
+     "Anana",
+     "Ajao"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 316,
+  "warao": "Joba ji ajuba",
+  "pt": "Verme",
+  "es": "Lombrices",
+  "categoria": "Higiene",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "provisoria",
+  "nota": "Na p. 31 \"vermes\" aparece como \"Kobejuba\"",
+  "variantes": [
+   {
+    "conceito": "Vermes",
+    "formas": [
+     "Kobejuba"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 317,
+  "warao": "Ai jaranta nai",
+  "pt": "Escovar os dentes",
+  "es": "Cepillarse los dientes",
+  "categoria": "Higiene",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 318,
+  "warao": "Karina atoma",
+  "pt": "Frango",
+  "es": "Pollo",
+  "categoria": "Alimentos",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 319,
+  "warao": "Bereko",
+  "pt": "Refrigerante",
+  "es": "Gaseosa",
+  "categoria": "Alimentos",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 320,
+  "warao": "Jonakaba",
+  "pt": "Peixe",
+  "es": "Pescado",
+  "categoria": "Alimentos",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 321,
+  "warao": "Isaba",
+  "pt": "Sopa",
+  "es": "Sopa",
+  "categoria": "Alimentos",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 322,
+  "warao": "Bamu",
+  "pt": "Sal",
+  "es": "Sal",
+  "categoria": "Alimentos",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "35",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 323,
+  "warao": "Daberaja",
+  "pt": "Açúcar",
+  "es": "Azúcar",
+  "categoria": "Alimentos",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 324,
+  "warao": "Naranja",
+  "pt": "Laranja",
+  "es": "Naranja",
+  "categoria": "Alimentos",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": "Empréstimo do espanhol",
+  "variantes": []
+ },
+ {
+  "id": 325,
+  "warao": "Buratana",
+  "pt": "Banana",
+  "es": "Banana",
+  "categoria": "Alimentos",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": "O glossário traduz Buratana como \"tipo de banana\" (cambur)",
+  "variantes": [
+   {
+    "conceito": "Buratana",
+    "formas": [],
+    "comentario": "Glossário: tipo de banana (cambur); cartilha: banana"
+   }
+  ]
+ },
+ {
+  "id": 326,
+  "warao": "Dau akuaja",
+  "pt": "Fruta",
+  "es": "Fruta",
+  "categoria": "Alimentos",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 327,
+  "warao": "Arukobo",
+  "pt": "Farinha",
+  "es": "Harina",
+  "categoria": "Alimentos",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 328,
+  "warao": "Ina atoma",
+  "pt": "Carne",
+  "es": "Carne",
+  "categoria": "Alimentos",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 329,
+  "warao": "Anibora",
+  "pt": "Marido",
+  "es": "Esposo",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 330,
+  "warao": "Nobo",
+  "pt": "Avô",
+  "es": "Abuelo",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 331,
+  "warao": "Natu",
+  "pt": "Avó",
+  "es": "Abuela",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 332,
+  "warao": "Atida",
+  "pt": "Esposa",
+  "es": "Esposa",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 333,
+  "warao": "Danikatida",
+  "pt": "Tia",
+  "es": "Tía",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 334,
+  "warao": "Daku",
+  "pt": "Tio",
+  "es": "Tío",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 335,
+  "warao": "Daní",
+  "pt": "Mãe",
+  "es": "Mamá",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 336,
+  "warao": "Dima",
+  "pt": "Papai",
+  "es": "Papá",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 337,
+  "warao": "Daje",
+  "pt": "Irmão mais velho",
+  "es": "Hermano mayor",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Irmão",
+    "formas": [
+     "Dakobo",
+     "Daka"
+    ],
+    "comentario": "Dakobo = irmão; Daka = irmão pequeno/mais novo; Daje = irmão mais velho"
+   }
+  ]
+ },
+ {
+  "id": 338,
+  "warao": "Auka",
+  "pt": "Filho",
+  "es": "Hijo",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 339,
+  "warao": "Aukatida",
+  "pt": "Filha",
+  "es": "Hija",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 340,
+  "warao": "Dakoi",
+  "pt": "Irmã mais velha",
+  "es": "Hermana mayor",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 341,
+  "warao": "Daka",
+  "pt": "Irmão mais novo",
+  "es": "Hermano menor",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": [
+   {
+    "conceito": "Irmão",
+    "formas": [
+     "Dakobo",
+     "Daje"
+    ],
+    "comentario": "Dakobo = irmão; Daka = irmão pequeno/mais novo; Daje = irmão mais velho"
+   }
+  ]
+ },
+ {
+  "id": 342,
+  "warao": "Noboto",
+  "pt": "Bebê",
+  "es": "Bebé",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": "O glossário traduz como \"criança pequena\"",
+  "variantes": [
+   {
+    "conceito": "Noboto",
+    "formas": [],
+    "comentario": "Glossário: criança pequena; cartilha: bebê"
+   }
+  ]
+ },
+ {
+  "id": 343,
+  "warao": "Doka",
+  "pt": "Irmã mais nova",
+  "es": "Hermana menor",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "36",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 344,
+  "warao": "Aturubita",
+  "pt": "Namorado; namorada",
+  "es": "Novio; novia",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": "Uma só palavra warao para os dois",
+  "variantes": []
+ },
+ {
+  "id": 345,
+  "warao": "Bayaratu",
+  "pt": "Cunhado",
+  "es": "Cuñado",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "revisar_falante",
+  "nota": "Na nota fonética (p. 16) está \"Barayatu\"",
+  "variantes": [
+   {
+    "conceito": "Cunhado",
+    "formas": [
+     "Barayatu"
+    ],
+    "comentario": "Uma das duas é provavelmente erro de digitação"
+   }
+  ]
+ },
+ {
+  "id": 346,
+  "warao": "Bigitida",
+  "pt": "Cunhada",
+  "es": "Cuñada",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 347,
+  "warao": "Natoro",
+  "pt": "Neto",
+  "es": "Nieto",
+  "categoria": "Parentesco e pessoas",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 348,
+  "warao": "Isaka",
+  "pt": "Um (1)",
+  "es": "Uno",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 349,
+  "warao": "Manamo",
+  "pt": "Dois (2)",
+  "es": "Dos",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 350,
+  "warao": "Dianamo",
+  "pt": "Três (3)",
+  "es": "Tres",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 351,
+  "warao": "Orabakaya",
+  "pt": "Quatro (4)",
+  "es": "Cuatro",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": "No 9 e no 19 a mesma fonte escreve \"orabakaja\"",
+  "variantes": [
+   {
+    "conceito": "Quatro",
+    "formas": [
+     "Orabakaja"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 352,
+  "warao": "Muabasi",
+  "pt": "Cinco (5)",
+  "es": "Cinco",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": "O glossário escreve Mojabasi",
+  "variantes": [
+   {
+    "conceito": "Cinco",
+    "formas": [
+     "Mojabasi"
+    ],
+    "comentario": null
+   }
+  ]
+ },
+ {
+  "id": 353,
+  "warao": "Mojo amatana isaka",
+  "pt": "Seis (6)",
+  "es": "Seis",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 354,
+  "warao": "Mojo amatana manamo",
+  "pt": "Sete (7)",
+  "es": "Siete",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 355,
+  "warao": "Mojo amatana dianamo",
+  "pt": "Oito (8)",
+  "es": "Ocho",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 356,
+  "warao": "Mojo amatana orabakaja",
+  "pt": "Nove (9)",
+  "es": "Nueve",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": "\"orabakaja\" aqui; no 4 está \"orabakaya\"",
+  "variantes": []
+ },
+ {
+  "id": 357,
+  "warao": "Mojoreko",
+  "pt": "Dez (10)",
+  "es": "Diez",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 358,
+  "warao": "Mojoreko arai isaka",
+  "pt": "Onze (11)",
+  "es": "Once",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 359,
+  "warao": "Mojoreko arai manamo",
+  "pt": "Doze (12)",
+  "es": "Doce",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 360,
+  "warao": "Mojoreko arai dianamo",
+  "pt": "Treze (13)",
+  "es": "Trece",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 361,
+  "warao": "Mojoreko arai orabakaya",
+  "pt": "Catorze (14)",
+  "es": "Catorce",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 362,
+  "warao": "Mojoreko arai muabasi",
+  "pt": "Quinze (15)",
+  "es": "Quince",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "37",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 363,
+  "warao": "Mojoreko arai muabasi mojo amatana isaka",
+  "pt": "Dezesseis (16)",
+  "es": "Dieciséis",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "38",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 364,
+  "warao": "Mojoreko arai muabasi mojo amatana manama",
+  "pt": "Dezessete (17)",
+  "es": "Diecisiete",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "38",
+  "status": "revisar_falante",
+  "nota": "\"manama\" na fonte; nos outros números é \"manamo\". Provável erro de digitação",
+  "variantes": []
+ },
+ {
+  "id": 365,
+  "warao": "Mojoreko arai muabasi mojo amatana dianamo",
+  "pt": "Dezoito (18)",
+  "es": "Dieciocho",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "38",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 366,
+  "warao": "Mojoreko arai muabasi mojo amatana orabakaja",
+  "pt": "Dezenove (19)",
+  "es": "Diecinueve",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "38",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 367,
+  "warao": "Warao isaka",
+  "pt": "Vinte (20)",
+  "es": "Veinte",
+  "categoria": "Números",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "38",
+  "status": "revisar_falante",
+  "nota": "A fonte rotula o 20 como \"Dezoito / Dieciocho\" (erro de diagramação). \"Warao isaka\" parece significar \"uma pessoa\" (20 dedos), mas isso é uma hipótese",
+  "variantes": []
+ },
+ {
+  "id": 368,
+  "warao": "Yaotaisaka",
+  "pt": "Segunda-feira",
+  "es": "Lunes",
+  "categoria": "Dias da semana",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "38",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 369,
+  "warao": "Yaotaaraisa",
+  "pt": "Terça-feira",
+  "es": "Martes",
+  "categoria": "Dias da semana",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "38",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 370,
+  "warao": "Yaotariana",
+  "pt": "Quarta-feira",
+  "es": "Miércoles",
+  "categoria": "Dias da semana",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "38",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 371,
+  "warao": "Yaotaorawabakaia",
+  "pt": "Quinta-feira",
+  "es": "Jueves",
+  "categoria": "Dias da semana",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "38",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 372,
+  "warao": "Yaotamoabasi",
+  "pt": "Sexta-feira",
+  "es": "Viernes",
+  "categoria": "Dias da semana",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "38",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 373,
+  "warao": "Misaraka",
+  "pt": "Sábado",
+  "es": "Sábado",
+  "categoria": "Dias da semana",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "38",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ },
+ {
+  "id": 374,
+  "warao": "Misa",
+  "pt": "Domingo",
+  "es": "Domingo",
+  "categoria": "Dias da semana",
+  "fonte": "Cartilha de apoio linguístico em saúde (UFRN, 2023)",
+  "pagina": "38",
+  "status": "provisoria",
+  "nota": null,
+  "variantes": []
+ }
+]
