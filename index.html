@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Dicionário Warao</title>
+<meta name="description" content="Dicionário Warao–português com dados provisórios do Glossário Warao (UNICEF, 2022) e da Cartilha de saúde (UFRN, 2023).">
+<meta name="theme-color" content="#3b3a8f">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>Dicionário Warao ⇄ Português</h1>
+    <p class="sub">Protótipo · dados provisórios · funciona sem internet</p>
+    <div class="search">
+      <input id="q" type="search" placeholder="Buscar palavra…" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Buscar palavra">
+    </div>
+    <div class="dir" role="group" aria-label="Sentido da busca">
+      <button data-dir="wp" aria-pressed="false">Warao → Port.</button>
+      <button data-dir="pw" aria-pressed="false">Port. → Warao</button>
+      <button data-dir="all" aria-pressed="true">Ambos</button>
+    </div>
+    <div class="filters">
+      <div class="cats" id="status" role="group" aria-label="Filtro de revisão"></div>
+      <div class="selects">
+        <label><span class="sr">Categoria</span><select id="cat"></select></label>
+        <label><span class="sr">Fonte</span><select id="fonte"></select></label>
+      </div>
+    </div>
+  </div>
+</header>
+<main>
+  <div class="wrap">
+    <div class="count" id="count" aria-live="polite"></div>
+    <ul class="list" id="list"></ul>
+    <button class="more" id="more" hidden>Mostrar mais</button>
+  </div>
+</main>
+<footer>
+  <div class="wrap">
+    <span id="net">Carregando…</span>
+    <span class="fbtns">
+      <button id="exportBtn">Exportar áudios</button>
+      <button id="aboutBtn">Sobre e fontes</button>
+    </span>
+  </div>
+</footer>
+
+<dialog id="about">
+  <button class="close" data-close>Fechar</button>
+  <h2>Sobre este protótipo</h2>
+  <p>Dicionário Warao ⇄ Português feito para uso em campo, no celular e sem internet. Todas as entradas são <strong>provisórias</strong> até serem conferidas com falantes Warao.</p>
+  <h3>Fontes</h3>
+  <ul>
+    <li><strong>Glossário Warao</strong>. UNICEF e Aldeias Infantis SOS, Belém e Ananindeua (PA), 2022. <span id="nG"></span></li>
+    <li><strong>Cartilha de apoio linguístico para interações em saúde</strong>. Universidade Federal do Rio Grande do Norte (UFRN), Natal, 2023. Variante Warao de Mariusa, Delta Amacuro. <span id="nC"></span></li>
+  </ul>
+  <p class="sub">Os direitos sobre o conteúdo são das instituições acima. Este protótipo reproduz apenas o vocabulário, sem os PDFs nem as ilustrações, para uso pessoal e de pesquisa enquanto a autorização das instituições é solicitada.</p>
+  <h3>Como ler</h3>
+  <ul>
+    <li><span class="badge warn">Revisar com falante</span> leitura duvidosa, provável erro de digitação na fonte ou sentido a confirmar.</li>
+    <li><span class="badge">Variante</span> a mesma ideia aparece com outra grafia ou outra palavra em alguma fonte. A busca acha todas as formas.</li>
+    <li>A busca ignora acentos e maiúsculas.</li>
+  </ul>
+  <h3>Gravações</h3>
+  <p>As gravações ficam guardadas só neste aparelho e neste navegador. Use <em>Exportar áudios</em> para baixar um arquivo .zip com a pasta <code>audio/</code>, pronta para copiar para o repositório. Limpar os dados do navegador apaga as gravações que não foram exportadas.</p>
+</dialog>
+
+<dialog id="rec">
+  <button class="close" data-close>Fechar</button>
+  <h2 id="recTitle">Gravar pronúncia</h2>
+  <p class="sub" id="recSub"></p>
+  <div class="recbox">
+    <button id="recBtn" class="recbtn" aria-label="Começar a gravar"><span class="dot"></span></button>
+    <div id="recTime" class="rectime">00:00</div>
+  </div>
+  <label class="field">Quem falou (opcional)
+    <input id="recWho" type="text" placeholder="Nome ou iniciais do falante" autocomplete="off">
+  </label>
+  <div id="recList"></div>
+  <p class="sub" id="recMsg"></p>
+</dialog>
+
+<script src="dados/vocabulario.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
